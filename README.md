@@ -6,7 +6,7 @@ This repository contains the datasets used for training and testing the DeepHECT
 
 Dataset Description
 
-Three distinct datasets were constructed from animal proteomes. All HECT protein sequences were identified using HMMER against the PFAM HECT domain (PF00632) with an E-value threshold of 1e-10. Non-HECT sequences were randomly selected to create balanced datasets.
+Three distinct datasets were constructed from animal proteomes. All HECT protein sequences were identified using HMMER against the Pfam HECT domain (PF00632) with an E-value threshold of 1e-10. Non-HECT sequences were randomly selected to create balanced datasets.
 
 Each downloadable .zip file contains two FASTA format files:
 
